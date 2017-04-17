@@ -1,7 +1,10 @@
 package com.soo.interview.ch01;
 
-/**
- * Created by soo on 2017. 4. 13..
- */
 public class Test4 {
+
+  public static void main(String[] args) {
+    String s = "testTT ";
+
+    System.out.println(s.trim().toLowerCase());
+  }
 }
